@@ -9,7 +9,7 @@
    <center>
     <h1> HELLO DEVELOPERS </h1>
     <hr/>
-   </center>
+   
    <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" width="150">
    <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" width="150">
    <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" width="150"> 
@@ -88,6 +88,7 @@
         <input type="submit" value="submit" />
         <input type="reset" value="reset" />
     </div>
+<center/>
 
     
     
